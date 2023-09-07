@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="1" time="8.080"><testcase classname="" file="keyup/cli.py" name="keyup.cli" time="0.0014910697937011719"><failure message="E:641, 4: Explicit return in __init__ (return-in-init)
+E:641, 4: Method should have &quot;self&quot; as first argument (no-self-argument)">E:641, 4: Explicit return in __init__ (return-in-init)
+E:641, 4: Method should have &quot;self&quot; as first argument (no-self-argument)</failure></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.168"><testcase classname="" file="keyup/colors.py" name="keyup.colors" time="0.0013425350189208984"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="2.559"><testcase classname="" file="keyup/configuration.py" name="keyup.configuration" time="0.0014081001281738281"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.236"><testcase classname="" file="keyup/help_menu.py" name="keyup.help_menu" time="0.0012459754943847656"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.162"><testcase classname="" file="keyup/__init__.py" name="keyup.__init__" time="0.0013620853424072266"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="1.173"><testcase classname="" file="keyup/logd.py" name="keyup.logd" time="0.0012826919555664062"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="1" time="0.712"><testcase classname="" file="keyup/menu.py" name="keyup.menu" time="0.0013616085052490234"><failure message="E: 53,25: Using variable &apos;submenu_backup&apos; before assignment (used-before-assignment)
+E: 54,26: Using variable &apos;submenu_logging&apos; before assignment (used-before-assignment)
+E: 81, 8: Instance of &apos;CursesMenu&apos; has no &apos;append&apos; member (no-member)
+E: 88,47: Undefined variable &apos;submenu_selection&apos; (undefined-variable)">E: 53,25: Using variable &apos;submenu_backup&apos; before assignment (used-before-assignment)
+E: 54,26: Using variable &apos;submenu_logging&apos; before assignment (used-before-assignment)
+E: 81, 8: Instance of &apos;CursesMenu&apos; has no &apos;append&apos; member (no-member)
+E: 88,47: Undefined variable &apos;submenu_selection&apos; (undefined-variable)</failure></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.344"><testcase classname="" file="keyup/oscodes.py" name="keyup.oscodes" time="0.0012438297271728516"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="1.541"><testcase classname="" file="keyup/progress.py" name="keyup.progress" time="0.0016467571258544922"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skips="0" tests="1" time="2.199"><testcase classname="" file="keyup/script_utils.py" name="keyup.script_utils" time="0.001367807388305664"><failure message="E:287,38: Module &apos;pygments.lexers&apos; has no &apos;JsonLexer&apos; member (no-member)
+E:287,58: Module &apos;pygments.formatters&apos; has no &apos;TerminalFormatter&apos; member (no-member)
+E:347,69: Undefined variable &apos;filename&apos; (undefined-variable)">E:287,38: Module &apos;pygments.lexers&apos; has no &apos;JsonLexer&apos; member (no-member)
+E:287,58: Module &apos;pygments.formatters&apos; has no &apos;TerminalFormatter&apos; member (no-member)
+E:347,69: Undefined variable &apos;filename&apos; (undefined-variable)</failure></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="1.210"><testcase classname="" file="keyup/statics.py" name="keyup.statics" time="0.0013704299926757812"></testcase></testsuite>\n
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.155"><testcase classname="" file="keyup/_version.py" name="keyup._version" time="0.0012640953063964844"></testcase></testsuite>\n

@@ -1,0 +1,127 @@
+{
+    "accent": {
+        "description": "ORANGE",
+        "hexcode": "\u001b[38;5;95;38;5;214m",
+        "name": "ORANGE"
+    },
+    "act": {
+        "description": "ORANGE",
+        "hexcode": "\u001b[38;5;95;38;5;214m",
+        "name": "ORANGE"
+    },
+    "aqu": {
+        "description": "AQUA",
+        "hexcode": "\u001b[38;5;14m",
+        "name": "AQUA"
+    },
+    "bbl": {
+        "description": "BRIGHTBLUE",
+        "hexcode": "\u001b[38;5;51m",
+        "name": "BRIGHTBLUE"
+    },
+    "bd": {
+        "description": "BOLD",
+        "hexcode": "\u001b[1m",
+        "name": "BOLD"
+    },
+    "bgn": {
+        "description": "BRIGHTGREEN",
+        "hexcode": "\u001b[38;5;95;38;5;46m",
+        "name": "BRIGHTGREEN"
+    },
+    "bpl": {
+        "description": "BRIGHTPURPLE",
+        "hexcode": "\u001b[38;5;68m",
+        "name": "BRIGHTPURPLE"
+    },
+    "bwt": {
+        "description": "BRIGHTWHITE",
+        "hexcode": "\u001b[38;5;15m",
+        "name": "BRIGHTWHITE"
+    },
+    "byg": {
+        "description": "BRIGHTYELLOWGREEN",
+        "hexcode": "\u001b[38;5;95;38;5;155m",
+        "name": "BRIGHTYELLOWGREEN"
+    },
+    "dbl": {
+        "description": "DARKBLUE",
+        "hexcode": "\u001b[38;5;95;38;5;24m",
+        "name": "DARKBLUE"
+    },
+    "dcy": {
+        "description": "DARKCYAN",
+        "hexcode": "\u001b[36m",
+        "name": "DARKCYAN"
+    },
+    "dg1": {
+        "description": "DARKGRAY1",
+        "hexcode": "\u001b[90m",
+        "name": "DARKGRAY1"
+    },
+    "dg2": {
+        "description": "DARKGRAY2",
+        "hexcode": "\u001b[38;5;95;38;5;8m",
+        "name": "DARKGRAY2"
+    },
+    "filesysystem": {
+        "description": "GOLD3",
+        "hexcode": "\u001b[38;5;95;38;5;178m",
+        "name": "GOLD3"
+    },
+    "frame": {
+        "description": "BRIGHTGREEN",
+        "hexcode": "\u001b[38;5;95;38;5;46m",
+        "name": "BRIGHTGREEN"
+    },
+    "fs": {
+        "description": "GOLD3",
+        "hexcode": "\u001b[38;5;95;38;5;178m",
+        "name": "GOLD3"
+    },
+    "gray": {
+        "description": "LT2GRAY",
+        "hexcode": "\u001b[38;5;95;38;5;246m",
+        "name": "LT2GRAY"
+    },
+    "highlight": {
+        "description": "BRIGHTYELLOW2",
+        "hexcode": "\u001b[38;5;95;38;5;226m",
+        "name": "BRIGHTYELLOW2"
+    },
+    "org": {
+        "description": "ORANGE",
+        "hexcode": "\u001b[38;5;95;38;5;214m",
+        "name": "ORANGE"
+    },
+    "rd": {
+        "description": "RED",
+        "hexcode": "\u001b[91m",
+        "name": "RED"
+    },
+    "rst": {
+        "description": "RESET",
+        "hexcode": "\u001b[0;0m",
+        "name": "RESET"
+    },
+    "text": {
+        "description": "BRIGHTCYAN",
+        "hexcode": "\u001b[38;5;36m",
+        "name": "BRIGHTCYAN"
+    },
+    "ub": {
+        "description": "UNBOLD",
+        "hexcode": "\u001b[22m",
+        "name": "UNBOLD"
+    },
+    "wtgr": {
+        "description": "WHITEGRAY",
+        "hexcode": "\u001b[38;5;95;38;5;250m",
+        "name": "WHITEGRAY"
+    },
+    "yl": {
+        "description": "YELLOW",
+        "hexcode": "\u001b[93m",
+        "name": "YELLOW"
+    }
+}

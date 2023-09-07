@@ -1,0 +1,14 @@
+awscli
+boto3
+curses-menu
+distro
+libtools
+pandoc
+pkginfo
+pyaws
+python-dateutil
+pytz
+requests
+twine
+prompt-toolkit>=3.0.10
+veryprettytable

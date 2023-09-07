@@ -1,0 +1,28 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Action": [
+        "iam:ListAccountAliases"
+      ],
+      "Resource": [
+        "*"
+      ],
+      "Effect": "Allow",
+      "Sid": "iamAccountInfo"
+    },
+    {
+      "Action": [
+        "iam:CreateAccessKey",
+        "iam:DeleteAccessKey",
+        "iam:ListAccessKeys",
+        "iam:GetAccessKeyLastUsed"
+      ],
+      "Resource": [
+        "arn:aws:iam::000000000000:user/${aws:username}"
+      ],
+      "Effect": "Allow",
+      "Sid": "iamUserChangeOwnAccessKeys"
+    }
+  ]
+}
