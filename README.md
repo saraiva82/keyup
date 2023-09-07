@@ -2,6 +2,14 @@
 #   **keyup** |  Automated IAM Access Key Rotation for Amazon Web Services
 * * *
 
+Ubuntu 22 (did not test other repos) workaround .....
+
+pyaws has a typo on the setup.py so install the one here manually I sent a pull request but i added a patched tarball here for the time being
+
+```
+pip install ./pyaws-0.4.2.tar.gz
+```
+
 
 
 ## About this repository
